@@ -1,3 +1,5 @@
-# TeamAI CI fixture repo — required for E2E tests
-name: teamai-cli-ci-test
+team: teamai-ci-test
+description: CI fixture repo for teamai-cli E2E tests
+repo: jeff-r2026/teamai-cli-ci-test-repo
+provider: github
 reviewers: []
