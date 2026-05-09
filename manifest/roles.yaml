@@ -1,7 +1,9 @@
+version: 1
 roles:
   - id: common
-    name: Common
     description: Default namespace for all members
     resources:
       skills:
         - hello-world
+      knowledge:
+        - general
