@@ -1,0 +1,125 @@
+votes:
+  glm-5-klx-双机-hml-远程加载部署全流程踩坑-2026-04-02-56uab6:
+    at: 2026-04-23T09:08:31.993Z
+  测试环境服务创建链路排障与-mq-spin-修复-2026-04-10-b6ezv5:
+    at: 2026-04-23T09:08:31.993Z
+  hai-主干测试环境-billing-syncer-本地-redis-与区域配置排查全流程-2026-04-02-jv3746:
+    at: 2026-04-23T09:08:31.993Z
+  mr审查发现fuse端口冲突bug及updateinferservice接口测试验证-2026-03-28-g5qlpn:
+    at: 2026-04-28T02:59:01.812Z
+  hai-hai-api-工蜂仓库分支命名规范-智研合流检测-2026-04-03-k6babk:
+    at: 2026-04-28T02:59:01.812Z
+  hai-restartservice-capi-端到端测试经验-2026-04-12-vn00jg:
+    at: 2026-04-28T02:59:01.812Z
+  hai-updateserviceconfigs-接口调用踩坑与排查-2026-04-14-pd3o2k:
+    at: 2026-04-28T02:59:20.382Z
+  rainbow-api-分页陷阱与-hai-单卡模板完整查询方法-2026-04-10-zvpn3z:
+    at: 2026-04-28T02:59:39.742Z
+  hai-api-模板部署-klx-qwen3-5-397b-全流程踩坑记录-2026-04-02-fpvxi5:
+    at: 2026-04-28T02:59:39.742Z
+  七彩石-rainbow-sdk-环境配置排查与-pd-模板部署经验-2026-04-25-0nwain:
+    at: 2026-04-28T02:59:39.742Z
+  recall-重构与-posttooluse-additionalcontext-输出格式经验-2026-04-04-51k7zs:
+    at: 2026-04-28T03:00:15.163Z
+  sgl-model-gateway-service-discovery-在-lws-pod-ip-复-2026-04-22-wgdhfi:
+    at: 2026-04-28T06:43:34.097Z
+  klx-p800-单卡-benchmark-qwen3-5-27b-全流程实践-2026-04-02-as956i:
+    at: 2026-04-28T10:15:38.416Z
+  klx-p800-qwen3-5-397b-北京正式环境跨集群-benchmark-实践-2026-04-08-kmiqc6:
+    at: 2026-04-28T10:15:38.416Z
+  klx-p800-正式环境推理服务压测经验-clb-hyperbench-2026-04-13-1n1e8a:
+    at: 2026-04-28T10:15:38.416Z
+  tnpm-发布认证失败排查指南-2026-04-01-fbzpqh:
+    at: 2026-04-28T12:33:41.695Z
+  借鉴-hindsight-为-teamai-实现-git-native-memory-搜索系统-2026-03-28-zd9bgb:
+    at: 2026-04-28T12:34:07.133Z
+  session-notes-2026-04-01-y2g12w:
+    at: 2026-04-28T12:34:07.133Z
+  hai-滚动更新功能调试-mr-污染清理-orm-误报-worker-启动排查-2026-04-02-l8l5y2:
+    at: 2026-04-28T12:36:06.629Z
+  teamai-recall-自动集成-builtin-rules-实现经验-2026-03-28-16iwcp:
+    at: 2026-04-28T13:15:27.009Z
+  h20-节点-glm-5-1-fp8-预热-hai-copy-model-实战踩坑-2026-04-21-7ban4z:
+    at: 2026-04-29T12:01:50.299Z
+  昆仑芯-glm-5-0-pd-分离推理服务完整链路逐跳验证-higress-mcpbridge-sg-2026-04-22-sdokwq:
+    at: 2026-04-29T12:01:50.299Z
+  sglang-reasoning-parser-导致-openai-客户端收到空-content-的-2026-04-22-w1bosf:
+    at: 2026-04-29T12:02:05.111Z
+  klx-w8a8-质量问题-reasoning-parser-假设被证伪-三方对比方法-2026-04-23-4wtmkh:
+    at: 2026-04-29T12:02:05.111Z
+  为什么最初没有用-tgit-创建-mr-cli-工具可用性检查的教训-2026-03-30-a8k93q:
+    at: 2026-04-29T12:38:56.156Z
+  hai-测试环境-internalerror-根因排查-七彩石-env-配置不一致-2026-04-24-wcjv4s:
+    at: 2026-05-07T08:13:56.562Z
+  hai-测试环境-rainbow-707-错误根因定位与热修-2026-04-28-80w4r4:
+    at: 2026-05-07T08:14:02.353Z
+  kubectl-proxy-exec-api-长任务执行技巧-2026-03-31-hru1ob:
+    at: 2026-05-12T02:25:51.336Z
+  updateserviceconfigs-环境变量更新功能测试与-bug-修复-2026-04-12-l2ho74:
+    at: 2026-05-14T08:13:41.899Z
+  sglang-推理服务-404-排查与健康检查优化-2026-04-01-10ljvq:
+    at: 2026-05-15T06:37:20.149Z
+  klx-双机-lws-部署-gloo-ipv6-冲突与-hyperbench-多进程踩坑-2026-03-30-amy9l5:
+    at: 2026-05-15T06:37:20.149Z
+  hai-测试环境部署-hai-api-后需手动修改-rainbow-env-配置-2026-05-11-fva783:
+    at: 2026-05-15T07:47:25.718Z
+  上海现网-hccpnv6-占用查询-tke-认证踩坑与查询方法-2026-04-03-l1d6y7:
+    at: 2026-05-18T11:46:39.034Z
+  上海现网-hccpnv6-占用查询-tke-认证踩坑与查询方法-2026-04-03-ulv39o:
+    at: 2026-05-18T11:46:39.034Z
+  elasticllm-vl-模型大图并发压测方法与结果-2026-03-31-srfjzf:
+    at: 2026-05-19T03:43:42.462Z
+  hai-推理集群上线新模型-模版-模型预览上下线-完整流程-2026-04-17-vjte4m:
+    at: 2026-05-19T03:43:52.153Z
+  sglang-router-cache-aware-策略流量不均根因分析-2026-04-01-qesjhk:
+    at: 2026-05-20T03:20:47.825Z
+  elasticllm-单卡多模型-oom-排查-mem-fraction-static-与-slee-2026-03-31-bwwlpg:
+    at: 2026-05-20T04:26:12.745Z
+  qwen3-5-397b-klx-启动耗时实测-hml-gdr-vs-nvme-完整对比方法论-2026-04-20-t4szw8:
+    at: 2026-05-20T07:28:33.480Z
+  tke-节点-hpc-cluster-标签丢失排查与-rdma-互通性验证-2026-03-31-7xxbwh:
+    at: 2026-05-20T09:29:23.713Z
+  tke-节点-hpc-标签缺失排查与修复-2026-04-01-icmxbo:
+    at: 2026-05-20T09:29:23.713Z
+  glm-5-1-fp8-h20-双机-lws-部署-deep-gemm-nameerror-与-ns-2026-04-21-0es9nz:
+    at: 2026-05-20T12:46:37.601Z
+  sglang-pd-分离模式下-n-1-请求触发-kv-transfer-300s-超时的排查定位-2026-04-30-65vjep:
+    at: 2026-05-21T08:25:49.795Z
+  pd-分离-prefill-服务启动失败排查-dev-shm-占用导致-mooncake-rdma--2026-05-07-3m2exa:
+    at: 2026-05-21T08:25:49.795Z
+  minicpm-sala-模型-tke-部署踩坑-定制-sglang-分支-单卡限制-2026-03-31-9j8ebv:
+    at: 2026-05-21T08:46:01.484Z
+  sglang-hml-gdr-hicache-mooncake-同节点共置部署实战-2026-05-21-orxlok:
+    at: 2026-05-22T02:24:02.516Z
+  sglang-deployment-改造-hml-gdr-远程加载与滚动升级实战-2026-05-21-fekkym:
+    at: 2026-05-22T02:24:02.516Z
+  elasticllm-504-超时排查-cls-全链路追踪实战-2026-03-31-u4cwhd:
+    at: 2026-05-22T03:16:57.534Z
+  排查-sglang-llm-服务-opencode-体验异常的系统化方法-2026-04-29-9v00yk:
+    at: 2026-05-22T08:19:53.084Z
+  sglang-gptq-moe-模型部署踩坑与-benchmark-实践-2026-03-31-d75zvs:
+    at: 2026-05-22T08:23:38.148Z
+  klx-生产服务公网-lb-压测与-iwiki-归档实战经验-2026-04-17-t69rt3:
+    at: 2026-06-24T06:51:31.868Z
+  knot-mcp-setup:
+    at: 2026-06-30T12:59:42.952Z
+  h20-cuda-optimizer:
+    at: 2026-06-30T13:06:20.536Z
+  hai-log-analysis:
+    at: 2026-07-01T09:11:44.910Z
+  cls-log:
+    at: 2026-07-01T09:11:44.910Z
+  cvm-env-log-query:
+    at: 2026-07-01T09:11:44.910Z
+  drawio-skill:
+    at: 2026-07-01T09:15:42.084Z
+  skill-creator:
+    at: 2026-07-01T09:15:42.084Z
+  deepgemm-cache-预编译大幅缩短-sglang-大模型启动耗时-2026-05-26-ydndt7:
+    at: 2026-07-01T09:35:58.866Z
+  sglang-用-sglang-env-覆盖第三方库-env-的排查经验-2026-05-21-8ia4qc:
+    at: 2026-07-01T09:35:58.866Z
+  common/token-efficiency:
+    at: 2026-07-01T09:37:02.126Z
+  hai-knowledge/business-domain:
+    at: 2026-07-02T03:12:39.421Z
