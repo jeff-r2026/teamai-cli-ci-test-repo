@@ -1,5 +1,5 @@
 username: jeffyxu
-updatedAt: 2026-07-07T11:07:56.934Z
+updatedAt: 2026-07-07T11:08:15.892Z
 skills:
   teamai-share-learnings:
     count: 5
@@ -8,7 +8,13 @@ skills:
     count: 4
     lastUsed: 2026-07-03T11:09:39.714Z
 interventions:
-  sessions: 1
+  sessions: 2
   interrupt: 0
   toolReject: 0
   correction: 0
+prompts: 1
+tokens:
+  input: 3
+  output: 50
+  cacheRead: 0
+  cacheCreation: 44463
